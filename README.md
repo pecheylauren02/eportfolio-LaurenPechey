@@ -1,5 +1,3 @@
-# TEST COMMIT 
-
 # My E-Portfolio Overview
 
 Welcome to my E-Portfolio! This site showcases my learning journey, the skills I've gained, and the work I've completed throughout my studies. Below is a breakdown of what you’ll find on each page.
